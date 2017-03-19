@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  GoSkinCare
 //
-//  Created by Luokey on 11/13/15.
-//  Copyright © 2015 Luokey. All rights reserved.
+//  Created by luck32 on 11/13/15.
+//  Copyright © 2015 luck32. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -169,7 +169,7 @@
 @synthesize persistentStoreCoordinator = _persistentStoreCoordinator;
 
 - (NSURL *)applicationDocumentsDirectory {
-    // The directory the application uses to store the Core Data store file. This code uses a directory named "com.luokey.GoSkinCare" in the application's documents directory.
+    // The directory the application uses to store the Core Data store file. This code uses a directory named "com.luck32.GoSkinCare" in the application's documents directory.
     return [[[NSFileManager defaultManager] URLsForDirectory:NSDocumentDirectory inDomains:NSUserDomainMask] lastObject];
 }
 

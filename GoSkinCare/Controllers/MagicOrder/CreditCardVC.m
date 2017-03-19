@@ -2,8 +2,8 @@
 //  CreditCardVC.m
 //  GoSkinCare
 //
-//  Created by Luokey on 4/14/16.
-//  Copyright © 2016 Luokey. All rights reserved.
+//  Created by luck32 on 4/14/16.
+//  Copyright © 2016 luck32. All rights reserved.
 //
 
 #import "CreditCardVC.h"

@@ -2,8 +2,8 @@
 //  Define.h
 //  BeaconApp
 //
-//  Created by Luokey on 7/2/15.
-//  Copyright (c) 2015 Luokey. All rights reserved.
+//  Created by luck32 on 7/2/15.
+//  Copyright (c) 2015 luck32. All rights reserved.
 //
 
 #ifndef BeaconApp_Define_h
@@ -43,7 +43,7 @@
 //#define ApiToken                            @"DJG93HFQ7"
 
 #define Sandbox_ClientID                    @"AQq6gYTF1MVJ8zRXRCNZHsgifm44YND0jsd45gBfomaiakJHASTdTrZq9ZIUXeBRi4gBhoRUst6E8jt2"     // Stefan's
-//#define Sandbox_ClientID                    @"AbZqAzcb3E_kpYqUkE9320oLAUME7p4FoSxILMEfmQu1Ktahb3StMeo2suPrIryKgk3AHEvsLTT10gyv"     // Luokey's
+//#define Sandbox_ClientID                    @"AbZqAzcb3E_kpYqUkE9320oLAUME7p4FoSxILMEfmQu1Ktahb3StMeo2suPrIryKgk3AHEvsLTT10gyv"     // luck32's
 #define Live_ClientID                       @"AQ6_uhnuoSuC17mfHdmcTIxj5PYyGlv0Vkp2RNlXe3R_MAzXr32PPju1fhE6hwku_g0on2zBILTEM2Ae"
 
 #define GA_ID                               @"UA-646016-40"

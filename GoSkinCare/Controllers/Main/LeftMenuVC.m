@@ -2,8 +2,8 @@
 //  LeftMenuVC.m
 //  GoSkinCare
 //
-//  Created by Luokey on 11/20/15.
-//  Copyright © 2015 Luokey. All rights reserved.
+//  Created by luck32 on 11/20/15.
+//  Copyright © 2015 luck32. All rights reserved.
 //
 
 #import "LeftMenuVC.h"

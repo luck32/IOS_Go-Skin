@@ -2,8 +2,8 @@
 //  UtilManager.m
 //  GoSkinCare
 //
-//  Created by Luokey on 10/9/15.
-//  Copyright © 2015 Luokey. All rights reserved.
+//  Created by luck32 on 10/9/15.
+//  Copyright © 2015 luck32. All rights reserved.
 //
 
 #import "UtilManager.h"

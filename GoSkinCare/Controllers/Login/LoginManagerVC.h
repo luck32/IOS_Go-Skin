@@ -2,8 +2,8 @@
 //  LoginManagerVC.h
 //  GoSkinCare
 //
-//  Created by Luokey on 2/17/16.
-//  Copyright © 2016 Luokey. All rights reserved.
+//  Created by luck32 on 2/17/16.
+//  Copyright © 2016 luck32. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
